@@ -1,1 +1,1 @@
-# fnd_competition23
+# Social Media Fake News Detection Competition 2023
