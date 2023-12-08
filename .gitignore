@@ -1,0 +1,8 @@
+venv/
+submission_files/
+social_network_rumor/
+fine_tuned_models/
+data/
+processed_data/
+llama_finetune.py
+__pycache__/
